@@ -1,1 +1,11 @@
-hello
+hello world
+
+Started feature 1 
+
+Developing feature 1 
+
+finsihed feature 1 
+
+starting feature 2 
+
+Developing feature 2 
